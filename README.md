@@ -1,2 +1,2 @@
-# yoongaemi-yoongaemi.github.io
+# yoongaemi.github.io
 blog
