@@ -1,11 +1,12 @@
-title: "Yoongaemi devlife"
+title: "yoon gaemi devlife"
 author: "Yoongaemi"
-description: "점점 낮아지는 기억력을 보충하기위해 시작하는 블로그그"
+description: "점점 낮아지는 기억력을 보충하기위해 시작하는 블로그"
 baseurl: ""  # 사용자 페이지라면 빈 값, 프로젝트라면 "/repo-name"
 url: "https://yoongaemi.github.io"
 
 # Minimal Mistakes 테마 적용
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 
 # Google Analytics (선택)
 analytics:
@@ -22,7 +23,7 @@ kramdown:
 
 # SEO 및 소셜 미디어 설정
 social:
-  name: "yourusername"
+  name: ""
   links:
     - "https://github.com/yoongaemi"
 
